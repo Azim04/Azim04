@@ -1,0 +1,21 @@
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: sessizlik/github-snake@main
+        with:
+          github_user: Azim04
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: enderluh/github-workflow-update-file@v1
+        with:
+          repository: Azim04/Azim04
+          branch: output
+          file_name: github-snake.svg
+          file_content_path: /tmp/github-user-contributions/github-snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
