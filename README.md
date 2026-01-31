@@ -65,9 +65,9 @@ Beyond office work, I thrive in **freelancing** where I contribute as an **App D
 
 ### 💼 Projects
 
-- 📱 **[Your Project Name]:** Brief description of your Flutter app — what it does, the tech stack used, and a link if available.
-- 📱 **[Your Project Name]:** Another project description here...
-- 📱 **[Your Project Name]:** Another project description here...
+- 📱 **Protip: A Mutual Fund Investment Platform** (Technologies: Flutter, Firebase, BLoC, Shorebird, GitHub Actions, REST APIs): Engineered a cross-platform mobile application for mutual fund investments, integrating Firebase for authentication and BLoC for state management, achieving 98% crash-free uptime for user transactions. Configured GitHub Actions for automated CI/CD pipelines and Shorebird for OTA updates, reducing deployment time by 40% and enabling rapid feature rollouts. Optimized API synchronization for real-time NAV and portfolio updates, improving data retrieval speed by 35% and enhancing user experience.
+- 📱 **GoEV: EV Route Planner** (Technologies: Flutter, Firebase, Mappls Maps, Django, SQL): Engineered a map-based mobile application for electric vehicle journey planning, integrating Mappls Maps to optimize long-distance routes with real-time charging station recommendations and precise charging duration estimates, leveraging Flutter for cross-platform deployment and Firebase for secure user authentication. Developed a Django backend with SQL database to efficiently manage vehicle and owner details, enhancing data consistency and enabling seamless trip planning. Optimized route algorithms and charging logistics, reducing planning time by 25% and improving user satisfaction through streamlined navigation and reliable EV travel support.
+- 📱 **Content Recommendation System** (Technologies: ReactJS, Node.js, Amazon Personalize, AWS SDK, Terraform): Developed a web application with ReactJS and Node.js, leveraging Amazon Personalize to deliver personalized content recommendations, increasing user engagement by 40%. Utilized AWS SDK to integrate and train models on Kaggle datasets, applying advanced preprocessing to enhance recommendation accuracy by 30%. Automated infrastructure deployment with Terraform on AWS, reducing setup time by 25% and ensuring scalable cloud architecture.
 
 ---
 
@@ -100,9 +100,7 @@ Beyond office work, I thrive in **freelancing** where I contribute as an **App D
 
 ### 🐍 GitHub Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Azim04/Azim04/output/github-snake.svg" alt="GitHub Snake" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/Azim04/Azim04/output/github-snake.svg)
 
 ---
 
