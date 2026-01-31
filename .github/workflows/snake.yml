@@ -7,15 +7,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: sessizlik/github-snake@main
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          github_user: Azim04
+          github_user_name: Azim04
+          outputs: |
+            ./dist/github-snake.svg
+            ./dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: enderluh/github-workflow-update-file@v1
+          
+      - name: Push Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           repository: Azim04/Azim04
-          branch: output
-          file_name: github-snake.svg
-          file_content_path: /tmp/github-user-contributions/github-snake.svg
+          target_branch: output
+          build_dir: dist
           github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
