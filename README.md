@@ -1,44 +1,77 @@
+<p align="center">
+<img src="https://github.com/Azim04.png" alt="Azim Shaikh" width="120" height="120">
+
 <div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/YOUR_AVATAR_ID?v=4" alt="Azim Shaikh" width="120" height="120" style="border-radius: 50%; border: 3px solid #00d4ff;">
-
-# 👋 Hey there, I'm Azim Shaikh!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=580&lines=Flutter+Developer+%7C+Android+%26+iOS;Cloud+Computing+%7C+DevOps+%7C+Docker;Let%27s+Hack+Together+🚀" alt="Typing SVG" />
-
+  <svg width="520" height="100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad">
+        <stop offset="0%" stop-color="#00C6FF"/>
+        <stop offset="100%" stop-color="#0072FF"/>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="55%" text-anchor="middle"
+          font-size="46"
+          font-family="Poppins, Arial"
+          font-weight="700"
+          fill="url(#grad)">
+      Azim Shaikh
+    </text>
+  </svg>
 </div>
+
+<p align="center">Building scalable apps & cloud-ready systems</p>
+
+</p>
+
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?center=false&border=false&cursorStyle=block&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Flutter+Developer%22%2C%22font%22%3A%22Fira+Code%22%2C%22color%22%3A%22%23007bff%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.1%2C%22fontWeight%22%3A%22500%22%7D%2C%7B%22text%22%3A%22DevOps%22%2C%22font%22%3A%22Fira+Code%22%2C%22color%22%3A%22%23007bff%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.1%2C%22fontWeight%22%3A%22500%22%7D%2C%7B%22text%22%3A%22Cloud+Computing+%22%2C%22font%22%3A%22Fira+Code%22%2C%22color%22%3A%22%23007bff%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.1%2C%22fontWeight%22%3A%22500%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Azim04&label=Profile+Views&color=007BFF&style=rounded-square" alt="Profile Views" />
+</p>
 
 ---
 
-## 🧠 About Me
+### 🖥️ About Me
 
 I'm a passionate **Flutter developer** crafting beautiful, cross-platform mobile apps for **Android & iOS**. I love turning ideas into polished, performant apps — and I'm constantly leveling up my skills in **Cloud Computing**, **DevOps**, and **Docker & Deployment**.
 
-Beyond mobile, I thrive in **hackathons** where I contribute as a **Deployer** — shipping fast, deploying smart. Let's build something amazing together! 🚀
+Beyond office work, I thrive in **freelancing** where I contribute as an **App Developer** — shipping fast, deploying smart. Let's build something amazing together! 🚀
 
 ---
 
-## 🛠️ Tech & Tools
+### 🧠 Skills
 
-<div align="center">
+<h3><p><b>📱 Mobile Development</b></p>
+<a href="#">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=flutter,dart,android,apple&titles=true" />
+</a></h3>
 
-![Flutter](https://img.shields.io/badge/Flutter-02f1f3?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C8?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<h3><p><b>☁️ Cloud & DevOps</b></p>
+<a href="#">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=docker,aws,linux,bash,githubactions&titles=true" />
+</a></h3>
 
-</div>
+<h3><p><b>🌐 Backend & Database</b></p>
+<a href="#">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=firebase,python,fastapi,supabase&titles=true" />
+</a></h3>
+
+<h3><p><b>🛠️ IDE & Version Control</b></p>
+<a href="#">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,git,github&titles=true" />
+</a></h3>
 
 ---
 
-## 📱 Mobile Dev Stack
+### 💼 Projects
+
+- 📱 **[Your Project Name]:** Brief description of your Flutter app — what it does, the tech stack used, and a link if available.
+- 📱 **[Your Project Name]:** Another project description here...
+- 📱 **[Your Project Name]:** Another project description here...
+
+---
+
+### 📱 Mobile Dev Stack
 
 <div align="center">
 
@@ -54,49 +87,70 @@ Beyond mobile, I thrive in **hackathons** where I contribute as a **Deployer** �
 
 ---
 
-## 📊 GitHub Stats
+### 🎯 Areas of Interest
+
+- 📱 Mobile App Development (Flutter)
+- ☁️ Cloud Computing & DevOps
+- 🐳 Containerization & Orchestration
+- ⚙️ CI/CD & Automation
+- 🌐 Cross-Platform Development
+- 🔧 Infrastructure as Code
+
+---
+
+### 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Azim04/Azim04/output/github-snake.svg" alt="GitHub Snake" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azim04&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="Azim's GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Azim04&bg_color=0d1117&text_color=00ff41&icon_color=00ff41&title_color=00ff41&border_color=1a4a1a&show_icons=true&count_private=true&card_width=350" alt="Azim's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azim04&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Azim04&bg_color=0d1117&text_color=00ff41&icon_color=00ff41&title_color=00ff41&border_color=1a4a1a&layout=compact&langs_count=8&card_width=350" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+### 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-streak-stats.herokuapp.com?username=Azim04&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Azim04&background=0d1117&border=1a4a1a&sideNums=00ff41&sideStreak=00ff41&currStreak=00ff41&currStreakLabel=00ff41&currStreakNum=00ff41&fire=00ff41&labelColor=0d1117&ring=00ff41" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🎯 Currently
+### 🎯 Currently
 
 - 📱 **Building** — Cross-platform Flutter apps for Android & iOS
 - 📚 **Learning** — Docker, Kubernetes & CI/CD Pipelines
-- 🏆 **Seeking** — Hackathon teams that need a Deployer
+- 💼 **Freelancing** — Delivering apps for clients
 - 🌐 **Exploring** — Cloud-native architectures & Infrastructure as Code
 
 ---
 
-## 📫 Let's Connect
+### 📫 Connect With Me
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azim.shaikh442003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-shaikh04/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azim04)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Azim04" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/azim-shaikh04/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:azim.shaikh442003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-<div align="center">
-<sub>⚡ Built with passion | Shipping apps, deploying dreams 🚀</sub>
-</div>
+<p align="center">
+  💻 Always open to collaborating on exciting <b>Flutter, Cloud, or DevOps-based projects</b>. Let's innovate together!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006600,00ff41,0d1117&height=120&section=footer&fontColor=00ff41&animation=fadeIn"/>
+</p>
